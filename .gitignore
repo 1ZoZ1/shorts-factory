@@ -1,2 +1,13 @@
-.DS_Store
-Thumbs.db
+/*
+!/.gitignore
+!/README.md
+!/docs/
+/docs/*
+!/docs/.nojekyll
+!/docs/index.html
+!/docs/style.css
+!/docs/app.js
+!/docs/assets/
+/docs/assets/*
+!/docs/assets/icon.svg
+!/docs/assets/cover.svg
